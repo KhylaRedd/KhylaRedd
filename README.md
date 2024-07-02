@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm Khyla Redd, a creative soul passionate about a
 
 ### 📫 How to reach me:
 
-- [Email](reddickjk@gmail.com)
+- [Email] reddickjk@gmail.com
 
 
 ### 🌟 Believe in Yourself
