@@ -11,8 +11,8 @@ Welcome to my GitHub profile! I'm Khyla Redd, a creative soul passionate about a
 
 ### 🌱 I’m currently learning ...
 - Advanced JavaScript and React.
-- SASS for more efficient and organized styling.
-- New techniques in music production.
+- Cybersecurity and best authentication practices
+- New techniques in audio production.
 - Best practices in creating accessible web applications.
 
 ### 👯 I’m looking to collaborate on ...
